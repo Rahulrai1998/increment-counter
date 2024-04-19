@@ -1,0 +1,16 @@
+body {
+  background: #0f4c81;
+  color: aliceblue;
+}
+div.parent-container {
+  width: 40%;
+  margin: 10% auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+.counter-container{
+    color: rgb(230, 55, 24);
+    font-size: 5rem;
+}
